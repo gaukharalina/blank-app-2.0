@@ -2,7 +2,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://aistudio-autopush.corp.google.com/apps/drive/1Fb-4CMlYSvrj3sfVVHLNLLvY2MTOtSNd?showAssistant=true&showCode=true&resourceKey=
+View your app in AI Studio: https://localhost.corp.google.com:27001/apps/drive/1Fb-4CMlYSvrj3sfVVHLNLLvY2MTOtSNd
 
 ## Run Locally
 
