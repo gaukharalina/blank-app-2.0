@@ -1,11 +1,16 @@
-<div align="center">
+# Run and deploy your AI Studio app
 
-  <img src="https://via.placeholder.com/600x250.png?text=Your+Image+Here" alt="Project Banner">
+This contains everything you need to run your app locally.
 
-  <h1>Built with AI Studio</h2>
+View your app in AI Studio: https://aistudio-autopush.corp.google.com/apps/drive/1Fb-4CMlYSvrj3sfVVHLNLLvY2MTOtSNd?showAssistant=true&showCode=true&resourceKey=
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Run Locally
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+**Prerequisites:**  Node.js
 
-</div>
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
